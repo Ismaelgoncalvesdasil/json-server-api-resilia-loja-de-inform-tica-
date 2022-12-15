@@ -1,4 +1,4 @@
-# json-server-api-resilia-loja-de-inform-tica-
+# json-server-api-resilia-loja-de-informatica
 https://json-server-api-resilia-loja-de.onrender.com
 <h2>Projeto Individual do Módulo 3 do Curso Programadores Carioca - Senac/Resilia</h2>
 <h3 align="center">JSON-server é um dos pacotes do npm. O npm é o gerenciador nativo da linguagem Javascript, usado no ambiente de execução Node.js. Esse servidor fica responsável pela simulação de uma API completa, em poucos cliques, facilitando muito durante a realização de teste durante o período de desenvolvimento de Aplicações Web — principalmente, no front-end.</h3><br><br>
