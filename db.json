@@ -1,0 +1,116 @@
+{
+ "computadores": [
+    {
+      "nome": "PC GAMER",
+      "processador": "Intel Core i9-12900K, Cache 30MB, 3.2GHz, 5.2GHz Max Turbo",
+      "placa de video": "Asus TUF Gaming Geforce RTX 3080 TI OC, 12GB GDDR6X, 384bit, LHRB",
+      "Placa Mae": " Gigabyte Z690 Aorus Elite DDR4, Chipset Z690",
+      "memoria ram": "XPG Hunter, 16GB (1x16GB), 3000MHz, DDR4",
+      "ssd": "Adata Swordfish, 500GB, M.2 PCIe, Leituras: 1800MB/s e Gravações: 1200MB/s",
+      "Fonte": " Deepcool DQ850 850W, 80Plus Gold, Full Modular",
+      "Gabinete": " Gamer Cooler Master Mastercase H500 ARGB Mid Tower",
+      "Garantia": "12 Meses de Garantia",
+      "Sistema Operacional": "Windows 10 Tria",
+      "imagem": "https://cdn.dooca.store/15/products/pc-gamer-i9-12900k-rtx-3080ti-itx-gamer_1600x1600+fill_ffffff.jpg?v=1646922675",
+      "id": 1
+    },
+    {
+      "nome": "PC GAMER",
+      "processador": "AMD Ryzen 9 3900X 3.8GHz (4.6GHz Max Turbo) AM4, Cache 64MB",
+      "placa de video": "Asus ROG STRIX NVIDIA GeForce RTX 2070 Super 8GB DDR6 256GB",
+      "Placa Mae": "  Asus TUF Gaming X570-PLUS/BR AMD AM4, ATX, DDR4",
+      "memoria ram": "XPG Hunter, 16GB (1x16GB), 3000MHz, DDR4",
+      "ssd": "Adata Swordfish, 500GB, M.2 PCIe, Leituras: 1800MB/s e Gravações: 1200MB/s",
+      "Fonte": " Deepcool DQ850 850W, 80Plus Gold, Full Modular",
+      "Gabinete": " Gamer Cooler Master Mastercase H500 ARGB Mid Tower",
+      "Garantia": "12 Meses de Garantia",
+      "Sistema Operacional": "Windows 10 Tria",
+      "imagem": "https://cdn.dooca.store/15/products/pc-computador-gamer-3900x-rtx-2070-super-h500-argb_640x640+fill_ffffff.jpg?v=1593104144",
+      "id": 2
+    },
+    {
+      "nome": "Notebook Gamer Acer Nitro 5",
+      "processador": "Intel® Core™ i7-10750H Six Core de 10ª geração",
+      "placa de video": "NVIDIA GeForce GTX 1650 com 4 GB de memória dedicada GDDR6",
+      "memoria ram": "8 GB de memória tipo DDR4, expansível até 32 GB",
+      "ssd": "SSD 512GB",
+      "Garantia": "12 Meses de Garantia",
+      "Sistema Operacional": "Windows 11",
+      "imagem": "https://images.kabum.com.br/produtos/fotos/308371/notebook-gamer-acer-nitro-5-intel-core-i7-10750h-geforce-gtx-1650-8gb-ram-512gb-ssd-15-6-ips-fhd-win-11-home-preto-an515-55-79x0_1645045438_gg.jpg",
+      "id": 3
+    },
+    {
+      "nome": "Notebook Gamer ACER AN515-57",
+      "processador": "Intel® Core™ i5-11400H Six core (12 threads) Frequência: até 4.5GHz 12 MB Intel® Smart Cache Chipset: HM570",
+      "placa de video": "NVIDIA® GeForce® GTX 1650 com 4GB de memória dedicada GDDR6 (TGP de 50W) Intel® UHD Graphics para processadores da 11ª geração com memória compartilhada com a memória RAM",
+      "memoria ram": "8GB RAM DDR4 de até 3200 MHz (1x 8GB em módulo SO-DIMM) Expansível até 64GB DDR4 de até 3200 MHz (2 Slots SO-DIMM com capacidade para até 32GB cada)",
+      "ssd": "256 GB SSD M.2 2280 PCIe 3.0 NVMe x4 1 TB HDD 2,5” (SATA 3) 5400 RPM",
+      "Garantia": "12 Meses de Garantia",
+      "Sistema Operacional": "Windows 11 Home 64-bits",
+      "imagem": "https://img.kalunga.com.br/fotosdeprodutos/218289d.jpg",
+      "id": 4
+    }
+  ],
+  "Perifericos": [
+    {
+      "nome": "TECLADO GAMER",
+      "marca": "Multilaser",
+      "RGB": "Sim",
+      "MECANICO":"Sim",
+      "id": 1
+    },
+    {
+      "nome": "MAUSE GAMER",
+      "marca": "Multilaser",
+      "RGB": "Sim",
+      "id": 2
+    },
+    {
+      "nome": "FONE GAMER",
+      "marca": "Multilaser",
+      "RGB": "Sim",
+      "id": 3
+    },
+    {
+      "nome": "MAUSE PAD GAMER",
+      "marca": "Multilaser",
+      "RGB": "Sim",
+      "id": 4
+    }
+
+  ],
+  "Impressoras":[
+    {
+      "nome": "Impressora Multifuncional,L5290",
+      "marca": "Epson",
+      "Tanque de tinta":"Sim",
+      "WI-FI":"Sim",
+      "imagem":"https://img.kalunga.com.br/fotosdeprodutos/220242d.jpg",
+      "id": 1
+    },
+    {
+      "nome": "Impressora Multifuncional,L3250",
+      "marca": "Epson",
+      "Tanque de tinta":"Sim",
+      "WI-FI":"Sim",
+      "imagem":"https://img.kalunga.com.br/fotosdeprodutos/220203d.jpg",
+      "id": 2
+    },
+    {
+      "nome": "Impressora Multifuncional,754",
+      "marca": "HP",
+      "Tanque de tinta":"Sim",
+      "WI-FI":"Sim",
+      "imagem": "https://img.kalunga.com.br/fotosdeprodutos/213110d.jpg",
+      "id": 3
+    },
+    {
+      "nome": "Impressora Multifuncional,517",
+      "marca": "HP",
+      "Tanque de tinta":"Sim",
+      "WI-FI":"Sim",
+      "imagem": "https://imgs.extra.com.br/55022643/1xg.jpg",
+      "id": 4
+    }  
+  ]
+}

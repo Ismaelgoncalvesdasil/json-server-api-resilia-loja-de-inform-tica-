@@ -1,0 +1,22 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "json-server desafio resilia",
+  "main": "db.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ismaelgoncalvesdasil/json-server-api-resilia.git"
+  },
+  "author": "Ismael Gonçalves da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ismaelgoncalvesdasil/json-server-api-resilia/issues"
+  },
+  "homepage": "https://github.com/Ismaelgoncalvesdasil/json-server-api-resilia#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
