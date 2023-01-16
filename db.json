@@ -57,24 +57,28 @@
       "marca": "Multilaser",
       "RGB": "Sim",
       "MECANICO":"Sim",
+      "imagem":"https://http2.mlstatic.com/D_NQ_NP_881275-MLA32838204271_112019-O.webp",
       "id": 1
     },
     {
       "nome": "MAUSE GAMER",
       "marca": "Multilaser",
       "RGB": "Sim",
+      "imagem":"https://m.media-amazon.com/images/I/51qTDZ+dP7L._AC_SX679_.jpg",
       "id": 2
     },
     {
       "nome": "FONE GAMER",
       "marca": "Multilaser",
-      "RGB": "Sim",
+      "RGB": "Não",
+      "imagem":"https://http2.mlstatic.com/D_NQ_NP_776022-MLB49231426631_022022-O.webp",
       "id": 3
     },
     {
       "nome": "MAUSE PAD GAMER",
       "marca": "Multilaser",
-      "RGB": "Sim",
+      "RGB": "Não",
+      "imagem":"https://img.kalunga.com.br/fotosdeprodutos/442673d.jpg",
       "id": 4
     }
 
