@@ -61,7 +61,7 @@
       "marca": "Marca: Multilaser",
       "RGB": "RGB :Sim",
       "MECANICO":"Sim",
-      "imagem":"https://http2.mlstatic.com/D_NQ_NP_881275-MLA32838204271_112019-O.webp",
+      "imagem":"./img/teclad.png",
       "id": 1,
       "valor":"R$59,90"
     },
@@ -69,7 +69,7 @@
       "nome": "MAUSE GAMER",
       "marca": "Marca: Multilaser",
       "RGB": "RGB: Sim",
-      "imagem":"https://m.media-amazon.com/images/I/51qTDZ+dP7L._AC_SX679_.jpg",
+      "imagem":"./img/mause.png",
       "id": 2 ,
       "valor":"69,90"
     },
@@ -77,7 +77,7 @@
       "nome": "FONE GAMER",
       "marca": "Marca: Multilaser",
       "RGB": "RGB: Não",
-      "imagem":"https://http2.mlstatic.com/D_NQ_NP_776022-MLB49231426631_022022-O.webp",
+      "imagem":"./img/fone.png",
       "id": 3,
       "valor":"R$144,90"
     },
@@ -85,7 +85,7 @@
       "nome": "MAUSE PAD GAMER",
       "marca": "Marca: Multilaser",
       "RGB": "RGB: Não",
-      "imagem":"https://img.kalunga.com.br/fotosdeprodutos/442673d.jpg",
+      "imagem":"./img/mp.png",
       "id": 4 ,
       "valor":"R$74,00"
     }
